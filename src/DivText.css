@@ -1,0 +1,14 @@
+.DivText {
+  margin: 20px;
+  padding: 10px;
+  background-color: aliceblue;
+  border: 1px solid gray;
+  box-shadow: 0 0 3px 3px lightgray;
+  width: fit-content;
+}
+
+.DivText div {
+  margin: 5px;
+  padding: 5px;
+  border: 1px dotted gray;
+}
